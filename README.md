@@ -1,8 +1,5 @@
 # Filament Business Hours Plugin
 
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/andreia/filament-business-hours/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/andreia/filament-business-hours/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/andreia/filament-business-hours/fix-php-code-styling.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/andreia/filament-business-hours/actions?query=workflow%3A"Fix+PHP+code+styling"+branch%3Amain)
-
 A powerful and flexible Filament plugin for managing business hours in your application. Built on top of [spatie/opening-hours](https://github.com/spatie/opening-hours), this plugin provides a complete solution for handling business hours with an elegant Filament interface.
 
 ![Filament Business Hours Form Field With Exceptions](https://raw.githubusercontent.com/andreia/filament-business-hours/main/art/business_hours_form_field1.png)
