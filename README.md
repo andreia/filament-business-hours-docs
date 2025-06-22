@@ -2,7 +2,7 @@
 
 A powerful and flexible Filament plugin for managing business hours in your application. Built on top of [spatie/opening-hours](https://github.com/spatie/opening-hours), this plugin provides a complete solution for handling business hours with an elegant Filament interface.
 
-![Filament Business Hours Form Field With Exceptions](https://raw.githubusercontent.com/andreia/filament-business-hours/main/art/business_hours_form_field1.png)
+![Filament Business Hours Form Field With Exceptions](https://raw.githubusercontent.com/andreia/filament-business-hours-docs/main/art/business_hours_form_field1.png)
 
 ## Features
 
