@@ -156,7 +156,7 @@ Optionally, you can publish the views using:
 php artisan vendor:publish --tag="filament-business-hours-views"
 ```
 
-### Plublish Translations (optional)
+### Publish Translations (optional)
 
 The package comes with English translations out of the box. Publish the language files to customize:
 
